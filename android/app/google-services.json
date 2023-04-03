@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1080979433028",
+    "firebase_url": "https://aloziraat-62060-default-rtdb.firebaseio.com",
+    "project_id": "aloziraat-62060",
+    "storage_bucket": "aloziraat-62060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080979433028:android:01f2c7fce93cdc86b4be11",
+        "android_client_info": {
+          "package_name": "com.example.kayitlar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080979433028-23mid7ib9kp274n62a1494bufev08r6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2SjqoIo4N8edC3jSp5C2AvGk88n8Gpio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080979433028-23mid7ib9kp274n62a1494bufev08r6b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080979433028-pr22oqlufafntcd4viqp2nretbmk5vik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.selcuk.aloziraat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080979433028:android:fda8aaf097adb3dab4be11",
+        "android_client_info": {
+          "package_name": "com.selcuk.aloziraat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080979433028-23mid7ib9kp274n62a1494bufev08r6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2SjqoIo4N8edC3jSp5C2AvGk88n8Gpio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080979433028-23mid7ib9kp274n62a1494bufev08r6b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080979433028-pr22oqlufafntcd4viqp2nretbmk5vik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.selcuk.aloziraat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
